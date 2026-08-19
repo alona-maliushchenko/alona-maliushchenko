@@ -13,4 +13,8 @@ Node.js • REST API • OpenAI • n8n • Git • GitHub
 
 **FoodHub AI Assistant** — AI-powered grocery ordering and email automation platform.
 
-📧 alona.maliushchenko@gmail.com
+## 📫 Connect with me
+
+📧 [alona.maliushchenko@gmail.com](mailto:alona.maliushchenko@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/alona-maliushchenko/)
+
